@@ -95,7 +95,7 @@ alura-agente/
 
 ```bash
 # 1. Clona el repositorio
-git clone <url-de-tu-repo>
+git clone https://github.com/KarlaHdz25/Challenge-Agente-IA---Alura-ONE
 cd alura-agente
 
 # 2. Crea un entorno virtual e instala dependencias
