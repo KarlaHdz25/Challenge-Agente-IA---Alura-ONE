@@ -10,7 +10,7 @@ import streamlit as st
 from ingesta import obtener_fragmentos
 from agente import construir_agente
 
-st.set_page_config(page_title="Alura Agente", page_icon="🎓")
+st.set_page_config(page_title="Alura Agente - Escuela Online", page_icon="🎓")
 
 # --- Configuración de la API Key de Groq ---
 # En local: crea un archivo .streamlit/secrets.toml con GROQ_API_KEY = "tu_key"
@@ -37,7 +37,7 @@ def cargar_cadena_rag():
 
 cadena_rag = cargar_cadena_rag()
 
-st.title("🎓 Alura Agente")
+st.title("🎓 Alura Agente - Escuela Online")
 st.caption("Asistente virtual de soporte para estudiantes y aspirantes")
 
 if "historial" not in st.session_state:
