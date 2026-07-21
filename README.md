@@ -122,19 +122,22 @@ La app abrirá automáticamente en tu navegador en `http://localhost:8501`.
 
 **Pregunta 1:** ¿Hasta cuántos días tengo para pedir la devolución de mi
 dinero si el curso no cumple mis expectativas?
-**Respuesta del agente:** *(pega aquí la respuesta real generada)*
+**Respuesta del agente:** *Tienes hasta 14 días para pedir la devolución de tu dinero, aunque el porcentaje de reembolso varía según el plazo: 100% en los primeros 7 días, 50% entre el día 8 y el día 14, y 0% a partir del día 15.*
 
 **Pregunta 2:** ¿Cuáles son los requisitos mínimos para mantener una beca
 académica activa?
-**Respuesta del agente:** *(pega aquí la respuesta real generada)*
+**Respuesta del agente:** *Para mantener una beca académica activa, los requisitos mínimos son:
+
+Mantener un promedio aprobatorio no menor a 8.0.
+Tener una asistencia activa del 90% en las actividades del curso.*
 
 **Pregunta 3:** ¿Cómo puedo descargar mi certificado una vez finalizado el
 curso?
-**Respuesta del agente:** *(pega aquí la respuesta real generada)*
+**Respuesta del agente:** *Una vez que hayas cumplido con todos los requisitos académicos (promedio mínimo aprobatorio de 7.0/10.0, 100% de proyectos prácticos entregados y evaluación final aprobada), el certificado digital se habilitará de forma automática en tu perfil, en la sección "Mis Certificados", en un plazo máximo de 10 días hábiles. Allí podrás descargar tu certificado de aprobación.*
 
 ## Despliegue en producción
 
-- **URL pública:** `<pega aquí el enlace de tu app en Streamlit Community Cloud>`
+- **URL pública:** `https://challenge-agente-ia---alura-one-4vaalpzeyt8fp68ixm8fcw.streamlit.app/`
 - **Captura de pantalla:**
 
   ```markdown
