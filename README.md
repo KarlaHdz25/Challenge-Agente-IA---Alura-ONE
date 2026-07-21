@@ -139,7 +139,7 @@ curso?
 - **URL pública:** https://challenge-agente-ia---alura-one-4vaalpzeyt8fp68ixm8fcw.streamlit.app/
 - **Captura de pantalla:**
 
-  ![Alura Agente funcionando](assets/Capturapantalla - AgenteAlura_Ejecutandose.png)
+  ![Alura Agente funcionando](assets/AgenteAlura_Ejecutandose.png)
   
 
 ## Próximos pasos
